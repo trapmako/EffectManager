@@ -7,7 +7,7 @@
 /nosmoke - включить или отключить дым от пуль
 
 Установка:
-Скачать [effectmanager.asi](https://drive.google.com/file/d/1kAREz5LX3IA7sxorpNnFpHJ7Z1-hDm7C/view?usp=sharing) (кликабельно) и закинуть его в корень игры.
+Скачать [effectmanager.asi](https://github.com/trapmako/effectmanager/releases/latest) (кликабельно) и закинуть его в корень игры.
 
 Примечание: 
 Плагин будет дорабатываться, будет становиться все лучше и лучше со временем, пока что идей для развития нет. Из последних добавлена поддержка R1 и R3 версии сампа.
